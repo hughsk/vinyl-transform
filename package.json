@@ -1,7 +1,7 @@
 {
   "name": "vinyl-transform",
   "description": "Use standard text transform streams to write fewer gulp plugins",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {

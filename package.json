@@ -5,7 +5,6 @@
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {
-    "duplexer2": "0.0.1",
     "through2": "~0.4.1",
     "new-from": "0.0.3",
     "bl": "~0.7.0"

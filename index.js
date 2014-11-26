@@ -1,5 +1,4 @@
 var through2 = require('through2')
-var duplex2 = require('duplexer2')
 var from = require('new-from')
 var bl = require('bl')
 

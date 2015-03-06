@@ -25,7 +25,7 @@ you'll recognise this pattern: it's effectively the same API used here.
 Here's an example of using this to... uppercase a bunch of files:
 
 ``` javascript
-var transform = require('vinyl-tranform')
+var transform = require('vinyl-transform')
 var map = require('map-stream')
 var gulp = require('gulp')
 

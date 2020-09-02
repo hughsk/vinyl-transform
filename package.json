@@ -7,7 +7,7 @@
   "dependencies": {
     "through2": "~0.4.1",
     "new-from": "0.0.3",
-    "bl": "~0.7.0"
+    "bl": "~4.0.3"
   },
   "devDependencies": {
     "tape": "~2.3.2",
